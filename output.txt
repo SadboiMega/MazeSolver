@@ -1,0 +1,39 @@
+xxxxxxxxxxxxxxxxxx x
+x     x       xxxx x
+x xxxxx  xxxxx  xx x
+x xxxxx xxxxxxx xx x
+x x          xx xx x
+x xxxxxxxxxx xx    x
+xxxxxxxxxxxxxxxxxxxx
+
+
+Path: No exit
+xxxxxxxxxxxxxxxxxx x
+x+++++x+++++++xxxx x
+x+xxxxx++xxxxx  xx x
+x+xxxxx+xxxxxxx xx x
+x+x++++++++++xx xx x
+x+xxxxxxxxxx+xx    x
+xxxxxxxxxxxxxxxxxxxx
+
+
+xxxxxxxxxx
+x  xxx   x
+x  x x   x
+x       xx
+x  x     x
+x    x   x
+xx xxxxxxx
+
+
+Path: EESWWSSWWNWWWSSES
+xxxxxxxxxx
+x++xxx+**x
+x++x+x***x
+x****+*+xx
+x* x***++x
+x**++x+++x
+xx*xxxxxxx
+
+
+Done!
